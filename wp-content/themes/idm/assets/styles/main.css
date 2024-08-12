@@ -112,7 +112,7 @@ header > nav {
 .jumbotron {
   height: 75vh;
   background-color: #fff;
-  background-image: url("/idm-static/wp-content/uploads/2021/03/jumbo-bg.jpeg");
+  background-image: url("/wp-content/uploads/2021/03/jumbo-bg.jpeg");
   background-size: cover;
   margin-bottom: 0; }
   .jumbotron h2 {
