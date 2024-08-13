@@ -316,7 +316,7 @@ span .name-label {
   height: 25%;
   font-size: 1.12rem; }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 1024px) {
   html {
     font-size: 12px; }
 
@@ -402,76 +402,5 @@ span .name-label {
     margin: auto;
     width: 100%;
     display: block; } }
-@media screen and (min-width: 768px) and (max-width: 1024px) {
-  .menu ul {
-    width: 100%; }
-    .menu ul > li {
-      margin: unset; }
-
-  .logo {
-    margin-left: unset; }
-
-  body > .container > .jumbotron > .inner-topic {
-    margin: 55% 0 0 0;
-    width: 100%; }
-
-  .about > .squares {
-    width: 100%; }
-
-  .btn-gallery {
-    width: 30%; }
-
-  .jumbotron button {
-    width: unset; } }
-.gallery-title {
-  font-size: 36px;
-  font-weight: 500;
-  color: #8de88d;
-  text-align: center;
-  margin-bottom: 70px; }
-  .gallery-title:after {
-    content: "";
-    position: absolute;
-    width: 7.5%;
-    left: 46.5%;
-    height: 45px;
-    border-bottom: 1px solid #5e5e5e; }
-
-.filter-button {
-  font-size: 18px;
-  border: 1px solid #8de88d;
-  text-align: center;
-  color: #8de88d;
-  margin-bottom: 30px; }
-  .filter-button:hover {
-    font-size: 18px;
-    border: 1px solid #8de88d;
-    text-align: center;
-    color: #fff;
-    background-color: #8de88d; }
-
-.btn-default:active .filter-button:active {
-  background-color: #8de88d;
-  color: #fff; }
-
-.port-image {
-  width: 100%; }
-
-.gallery_product {
-  margin-bottom: 30px; }
-
-.button {
-  display: block;
-  width: 22%;
-  height: 44px;
-  padding: 10px;
-  text-align: center;
-  background-color: #fff;
-  color: #000;
-  font-weight: bold; }
-  .button:hover {
-    font-size: 18px;
-    text-align: center;
-    color: #fff; }
 
 /*# sourceMappingURL=main.css.map */
